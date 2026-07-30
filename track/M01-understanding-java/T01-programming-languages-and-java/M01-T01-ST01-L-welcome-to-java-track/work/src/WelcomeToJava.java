@@ -8,5 +8,6 @@ public class WelcomeToJava {
         System.out.println("My name is Krishna.");
         System.out.println("My goal is to become a Java Developer.");
         System.out.println("I selected to Java because I want to build large applications.");
+        System.out.println("Now i now how to use git and github");
     }
 }
