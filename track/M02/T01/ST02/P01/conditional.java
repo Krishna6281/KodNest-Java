@@ -2,7 +2,7 @@
 public class conditional {
 
     public static void main(String[] args) {
-        int number = 24;
+        int number = -7;
         int firstScore = 18;
         int secondScore = 25;
         if (number > 0) {
