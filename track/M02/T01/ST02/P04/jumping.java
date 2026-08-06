@@ -1,7 +1,7 @@
-package kodnest;
 
 public class jumping {
-	public static void main(String[] args) {
+
+    public static void main(String[] args) {
 //		for(int i=1;i<=10;i++) {
 //			
 //			System.out.println(i);
@@ -21,15 +21,15 @@ public class jumping {
 //	}
 //
 //}
-		
-		for(int i=1;i<=10;i++) {
-			
-					System.out.println(i);
-					if(i==6) {
-						break;
-					}
-			
-				}
-			}
 
-		}
+        for (int i = 1; i <= 10; i++) {
+
+            System.out.println(i);
+            if (i == 6) {
+                break;
+            }
+
+        }
+    }
+
+}
